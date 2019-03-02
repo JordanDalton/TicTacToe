@@ -5,7 +5,9 @@
 
 ```
 composer install
+yarn install
 php artisan migrate
+yarn run watch (or dev..your choice)
 ```
 
 
